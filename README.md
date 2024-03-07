@@ -50,5 +50,5 @@
             <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" /></a>
 </p>
 <p>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hiu1al5l2hpdt9zu9h38y12rf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=hiu1al5l2hpdt9zu9h38y12rf&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)/>
 </p>
