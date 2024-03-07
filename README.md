@@ -16,11 +16,11 @@
 <h3 align="center">
   My Contributor
 </h3>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg">
-      <img alt="snake animation" src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg">
-    </picture>
+  <picture style="display: flex; justify-content: center; align-items: center; width: 100vw; height: 100vh; margin: 0;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg" style="max-width: 100%; max-height: 100%;">
+  </picture>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="150"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&theme=vue-dark&show_icons=true&locale=en" alt="ghozali25" height="150" />
