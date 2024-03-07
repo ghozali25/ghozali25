@@ -60,10 +60,6 @@
 </div>
 
 <div align="center">
-## Custom
-
-> You need to add **?quote=Your Quote** parameter.
-> URL encode your quote.
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
