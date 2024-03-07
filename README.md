@@ -13,11 +13,6 @@
 
 - 📫 How to reach me **ghozali.ahmd25@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghozali25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" width="40" /></a>
-</p>
-
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="200"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&locale=en" alt="ghozali25" height="200" />
@@ -36,4 +31,10 @@
 <br>
 <br>
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ghozali25"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="ghozali25" /></a></p>
+<p>
+<a href="https://www.buymeacoffee.com/ghozali25"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="ghozali25" /></a>
+
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://linkedin.com/in/ghozali25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" width="40" /></a>
+</p>
