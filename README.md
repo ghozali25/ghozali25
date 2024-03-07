@@ -13,6 +13,18 @@
 
 - 📫 How to reach me **ghozali.ahmd25@gmail.com**
 
+<img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghozali25&theme=vue)
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghozali25)](https://github.com/ghozali25/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
+
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="150"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&locale=en" alt="ghozali25" height="150" />
