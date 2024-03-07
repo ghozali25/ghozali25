@@ -19,8 +19,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg">
 </picture>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&theme=vuedark&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="150"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&theme=vuedark&show_icons=true&locale=en" alt="ghozali25" height="150" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="150"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&theme=vue-dark&show_icons=true&locale=en" alt="ghozali25" height="150" />
 </p>
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ghozali25&theme=vue-dark&hide_border=true&locale=id&date_format=j%20M%5B%20Y%5D&mode=weekly&sideLabels=D9EB23" alt="ghozali25" width="650"/>
