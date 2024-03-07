@@ -49,7 +49,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ghozali25&theme=vue-dark&locale=en&date_format=j%20M%5B%20Y%5D&mode=weekly&sideLabels=D9EB23" alt="ghozali25" width="650"/>
 </p>
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ghozali25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=ghozali25&limit=5&theme=vue-dark&combine_all_yearly_contributions=true"/>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
