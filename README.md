@@ -18,7 +18,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&locale=en" alt="ghozali25" height="150" />
 </p>
 <p>
-<img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozali25&" alt="ghozali25" width="750"/>
+<img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozali25&" alt="ghozali25" width="650"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
