@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ghozali.ahmd25@gmail.com**
 
-<img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.gif" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghozali25)](https://github.com/ryo-ma/github-profile-trophy)
 
