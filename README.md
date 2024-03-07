@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> </p>
 
+- 🔭 I’m currently working on **PT Rantai Pasok Teknologi**
+
+- 👯 I’m looking to collaborate on **Freelance**
+
+- 🤝 I’m looking for help with **All Project**
+
+- 👨‍💻 All of my projects are available at [https://ahmadghozali.my.id](https://ahmadghozali.my.id)
+
+- 📫 How to reach me **ghozali.ahmd25@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ghozali25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" width="40" /></a>
