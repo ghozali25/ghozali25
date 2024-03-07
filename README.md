@@ -59,11 +59,6 @@
             <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" /></a>
 </div>
 
-<div>
-    ### ✍️ Random Dev Quote
-![Readme Quotes][(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-### 🔝 Top Contributed Repo
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
-
+<div align="center">
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
