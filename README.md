@@ -45,8 +45,3 @@
             <a href="https://www.linkedin.com/ghozali25">
             <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" /></a>
 </p>
-<p>
-        ![snake gif]<img align="left" src="https://github.com/ghozali25/ghozali25/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
