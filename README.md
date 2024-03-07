@@ -1,4 +1,21 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> 
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=200&lines=Hi+There%2C+I'm+Ahmad+Ghozali;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;I'm+Bachelor+From+STIE+Kesatuan;Passionate+For+Data+Analyst%2C;Bussiness+Intelligence%2C+Accounting%2C;I'm+Expert+For+Developer+Web%2C;BI+Developer+and+Analyst" alt="Typing SVG"/>
 </p>
