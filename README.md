@@ -21,8 +21,8 @@
 
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="500"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&locale=en" alt="ghozali25" height="500" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="100"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&locale=en" alt="ghozali25" height="100" />
 </p>
 
 <br>
