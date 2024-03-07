@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Freelance**
 
-- 👨‍💻 All of my projects are available at [ahmadghozali.my.id](ahmadghozali.my.id)
+- 👨‍💻 All of my projects are available at https://ahmadghozali.my.id
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
