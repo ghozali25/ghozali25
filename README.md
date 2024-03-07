@@ -1,19 +1,30 @@
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> 
-<img alt="GitHub License" src="https://img.shields.io/github/license/ghozali25/ghozali25?style=flat-square&logo=licence">
-<a href="https://github.com/ghozali25/ghozali25/fork" target="blank">
-<img src="https://img.shields.io/github/forks/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/rahuldkjain/ghozali25/ghozali25/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/ghozali25/ghozali25/issues" target="blank">
-<img src="https://img.shields.io/github/issues/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/ghozali25/ghozali25/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
+    <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> 
+    <img alt="GitHub License" src="https://img.shields.io/github/license/ghozali25/ghozali25?style=flat-square&logo=licence">
+    <a href="https://github.com/ghozali25/ghozali25/fork" target="blank">
+    <img src="https://img.shields.io/github/forks/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator forks"/>
+    </a>
+    <a href="https://github.com/rahuldkjain/ghozali25/ghozali25/stargazers" target="blank">
+    <img src="https://img.shields.io/github/stars/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator stars"/>
+    </a>
+    <a href="https://github.com/ghozali25/ghozali25/issues" target="blank">
+    <img src="https://img.shields.io/github/issues/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator issues"/>
+    </a>
+    <a href="https://github.com/ghozali25/ghozali25/pulls" target="blank">
+    <img src="https://img.shields.io/github/issues-pr/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+    </a>
 </p>
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=200&lines=Hi+There%2C+I'm+Ahmad+Ghozali;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;I'm+Bachelor+From+STIE+Kesatuan;Passionate+For+Data+Analyst%2C;Bussiness+Intelligence%2C+Accounting%2C;I'm+Expert+For+Developer+Web%2C;BI+Developer+and+Analyst" alt="Typing SVG"/>
 </p>
