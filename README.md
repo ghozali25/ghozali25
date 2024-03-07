@@ -15,8 +15,6 @@
 
 <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake.svg" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghozali25&theme=vue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghozali25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ghozali25)](https://github.com/ryo-ma/github-profile-trophy)
