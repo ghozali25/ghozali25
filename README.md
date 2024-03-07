@@ -1,8 +1,6 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> 
-<a href="https://github.com/ghozali25/ghozali25/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/ghozali25/ghozali25?style=flat-square />
-</a>
 <a href="https://github.com/ghozali25/ghozali25/fork" target="blank">
 <img src="https://img.shields.io/github/forks/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
