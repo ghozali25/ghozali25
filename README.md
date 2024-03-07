@@ -62,4 +62,6 @@
 <div align="center">
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=My%20Quote&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hiu1al5l2hpdt9zu9h38y12rf&width={width})
 </div>
