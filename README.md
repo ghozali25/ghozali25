@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-        <h3>Support:</h3>
+        <h3>Support Me</h3>
             <a href="https://www.buymeacoffee.com/ghozali25"> 
             <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" /></a>
 </div>
