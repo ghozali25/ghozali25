@@ -34,11 +34,10 @@
 <p>
         <h3 align="left">Support:</h3>
             <a href="https://www.buymeacoffee.com/ghozali25"> 
-            <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" />       
-        <h3 align="center">Connect with me:</h3>
+            <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" /></a>       
+        <h3 align="left">Connect with me:</h3>
             <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" />
-        </a>
-</p>
+        
 
 
 
