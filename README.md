@@ -31,8 +31,8 @@
 <br>
 <br>
 
-<p style="display: flex; align-items: center;">
-    <span style="display: flex; align-items: center; margin-right: 20px;">
+<p>
+    <span style="display: flex;">
         <h3 align="left">Support:</h3> <h3 align="right">Connect with me:</h3>
         <a href="https://www.buymeacoffee.com/ghozali25"> 
             <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" />
