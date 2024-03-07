@@ -31,10 +31,8 @@
 <br>
 <br>
 <h3 align="left">Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/ghozali25"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="ghozali25" /></a>
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/ghozali25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" width="40" /></a>
+<p style="display: flex; align-items: center;">
+    <a href="https://www.buymeacoffee.com/ghozali25"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="ghozali25" /></a>
+    <h3 align="left" style="margin-left: 10px;">Connect with me:</h3>
+    <a href="https://linkedin.com/in/ghozali25" target="blank" style="margin-left: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" width="40" /></a>
 </p>
