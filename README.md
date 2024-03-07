@@ -19,11 +19,11 @@
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghozali25)](https://github.com/ghozali25/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghozali25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=msoftware)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ghozali25)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msoftware)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghozali25)](https://git.io/streak-stats)
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozali25&show_icons=true&locale=en&layout=compact" alt="ghozali25" height="150"/>
