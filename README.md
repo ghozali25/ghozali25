@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmadghozali25" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://www.instagram.com/ahmadghozali25" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/></a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:ghozali.ahmd25@gmail.com"<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
 </div>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=200&lines=Hi+There%2C+I'm+Ahmad+Ghozali;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;I'm+Bachelor+From+STIE+Kesatuan;Passionate+For+Data+Analyst%2C;Bussiness+Intelligence%2C+Accounting%2C;I'm+Expert+For+Developer+Web%2C;BI+Developer+and+Analyst" alt="Typing SVG"/>
