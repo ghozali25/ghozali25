@@ -61,7 +61,7 @@
 <br>
 <div align="center">
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Hidup%20Mengalir%20Apa%20Adanya,%20Ikhtiar%20dan%20Berdoa&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Hidup%20Mengalir%20Apa%20Adanya,%20Dibarengi%20Dengan%20Ikhtiar%20dan%20Berdoa&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 <br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hiu1al5l2hpdt9zu9h38y12rf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
