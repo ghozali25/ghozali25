@@ -33,14 +33,9 @@
 
 <p>
     <span style="display: flex;">
-        <h3 align="left">Support: &nbsp;&nbsp;&nbsp;&nbsp; Connect with me:</h3>
+        <h3 align="left">Support: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Connect with me:</h3>
             <a href="https://www.buymeacoffee.com/ghozali25"> 
             <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="ghozali25" />
-        </a>
-    </span>
-    <span style="display: flex; align-items: center;">
-        
-        <a href="https://linkedin.com/in/ghozali25" target="blank">
             <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghozali25" height="30" />
         </a>
     </span>
