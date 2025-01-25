@@ -52,7 +52,7 @@
 <div align="center">
     <h3>Support Me</h3>
     <a href="https://www.buymeacoffee.com/ghozali25" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Donate Me" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Donate Me" width="200" height="50"/>
     </a>
 </div>
 <br>
