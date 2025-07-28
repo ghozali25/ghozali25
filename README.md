@@ -23,8 +23,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&height=200&lines=Hi+There%2C+I'm+Ahmad+Ghozali;From+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;I'm+Bachelor+From+STIE+Kesatuan;Passionate+For+Data+Analyst%2C;Bussiness+Intelligence%2C+Accounting%2C;I'm+Expert+For+Developer+Web%2C;BI+Developer+and+Analyst" alt="Typing SVG"/>
 </p>
 
-- 🔭 I’m currently working on **PT Linknet**
-
 - 👯 I’m looking to collaborate on **Freelance**
 
 - 🤝 I’m looking for help with **All Project**
