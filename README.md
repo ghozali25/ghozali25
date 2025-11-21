@@ -27,7 +27,7 @@
 
 - 🤝 I’m looking for help with **All Project**
 
-- 👨‍💻 All of my projects are available at [https://ahmadghozali.my.id](https://ahmadghozali.my.id)
+- 👨‍💻 All of my projects are available at [(https://hiddenlab.xyz)](https://hiddenlab.xyz)
 
 - 📫 How to reach me **ghozali.ahmd25@gmail.com**
 
