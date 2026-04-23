@@ -1,10 +1,21 @@
-<h3 align="center">Languages and Tools</h3>
+<h1 align="center">Hi 👋, I'm Ahmad Ghozali</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,mongodb,mysql,nodejs,php,postgres,python,react,tailwind,vue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Analyst;BI+Developer;Laravel+%7C+NodeJS+%7C+Dashboarding;Welcome+to+my+GitHub+Profile" />
 </p>
 
-<div align="center">
+---
+
+### 🚀 About Me
+- 💻 Web Developer & BI Developer  
+- 📊 Passionate in Data Analyst & Business Intelligence  
+- 🌍 Based in Indonesia 🇮🇩  
+- ⚡ Focus: Laravel, Node.js, Dashboarding, Automation  
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmadghozali25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
   </a>
@@ -14,28 +25,70 @@
   <a href="mailto:ghozali.ahmd25@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
   </a>
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&background=FFFFFF00&center=true&vCenter=true&width=435&height=200&lines=Hi+There%2C+I'm+Ahmad+Ghozali;From+Indonesia+🇮🇩;Bachelor+from+STIE+Kesatuan;Data+Analyst+%7C+BI+Developer;Web+Developer" />
 </p>
 
-- 👯 I’m looking to collaborate on **Freelance**
-- 🤝 I’m looking for help with **All Project**
-- 👨‍💻 All of my projects are available at https://hiddenlab.xyz
-- 📫 How to reach me **ghozali.ahmd25@gmail.com**
+---
 
-<h3 align="center">My Contributor</h3>
+### 🛠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,mongodb,mysql,nodejs,php,postgres,python,react,tailwind,vue" />
+</p>
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozali25&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozali25&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Featured Project
+<p align="center">
+  <a href="https://hiddenlab.xyz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozali25&repo=portfolio-v4&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<br>
+---
 
-<div align="center">
-  <h3>Support Me</h3>
+### 👯 Collaboration
+- Open for **Freelance & Project Collaboration**
+- Looking for opportunities in **Web Dev & Data Analyst**
+
+---
+
+### 📫 Contact
+- Email: **ghozali.ahmd25@gmail.com**
+- Portfolio: https://hiddenlab.xyz
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ☕ Support Me
+<p align="center">
   <a href="https://www.buymeacoffee.com/ghozali25" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
-</div>
+</p>
