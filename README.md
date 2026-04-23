@@ -1,18 +1,7 @@
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20views&color=0e75b6&style=flat" alt="ghozali25" /> 
-    <img alt="GitHub License" src="https://img.shields.io/github/license/ghozali25/ghozali25?style=flat-square&logo=licence">
-    <a href="https://github.com/ghozali25/ghozali25/fork" target="blank">
-    <img src="https://img.shields.io/github/forks/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator forks"/>
-    </a>
-    <a href="https://github.com/rahuldkjain/ghozali25/ghozali25/stargazers" target="blank">
-    <img src="https://img.shields.io/github/stars/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator stars"/>
-    </a>
-    <a href="https://github.com/ghozali25/ghozali25/issues" target="blank">
-    <img src="https://img.shields.io/github/issues/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator issues"/>
-    </a>
-    <a href="https://github.com/ghozali25/ghozali25/pulls" target="blank">
-    <img src="https://img.shields.io/github/issues-pr/ghozali25/ghozali25?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-    </a>
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,gcp,linux,mongodb,mysql,nodejs,php,postgres,python,react,tailwind,vue" />
 </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmadghozali25" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
