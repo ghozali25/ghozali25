@@ -8,15 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Analyst;BI+Developer;Laravel+%7C+NodeJS+%7C+Dashboarding;Welcome+to+my+GitHub+Profile" />
 </p>
 
----
-
-### 🚀 About Me
+### About Me
 - 💻 Web Developer & BI Developer  
 - 📊 Passionate in Data Analyst & Business Intelligence  
 - 🌍 Based in Indonesia 🇮🇩  
 - ⚡ Focus: Laravel, Node.js, Dashboarding, Automation  
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -31,33 +27,19 @@
   </a>
 </p>
 
----
-
 ### 🛠 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,mongodb,mysql,nodejs,php,postgres,python,react,tailwind,vue" />
 </p>
-
----
 
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-
-### 👯 Collaboration
-- Open for **Freelance & Project Collaboration**
-- Looking for opportunities in **Web Dev & Data Analyst**
-
----
-
 ### 📫 Contact
 - Email: **ghozali.ahmd25@gmail.com**
 - Portfolio: https://hiddenlab.xyz
-
----
 
 ### ☕ Support Me
 <p align="center">
