@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ahmad Ghozali</h1>
 
 <p align="center">
@@ -52,13 +56,6 @@
 ### 📫 Contact
 - Email: **ghozali.ahmd25@gmail.com**
 - Portfolio: https://hiddenlab.xyz
-
----
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
