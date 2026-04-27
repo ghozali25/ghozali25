@@ -36,30 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghozali25&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghozali25&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghozali25&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📌 Featured Project
-<p align="center">
-  <a href="https://hiddenlab.xyz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ghozali25&repo=portfolio-v4&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg" />
