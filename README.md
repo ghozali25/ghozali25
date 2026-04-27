@@ -26,7 +26,6 @@
 - 💻 Web Developer & BI Developer  
 - 📊 Passionate in Data Analyst & Business Intelligence  
 - 🌍 Based in Indonesia 🇮🇩  
-- ⚡ Focus: Laravel, Node.js, Dashboarding, Automation  
 - Email: **ghozali.ahmd25@gmail.com**
 - Portfolio: https://hiddenlab.xyz
 
