@@ -13,6 +13,8 @@
 - 📊 Passionate in Data Analyst & Business Intelligence  
 - 🌍 Based in Indonesia 🇮🇩  
 - ⚡ Focus: Laravel, Node.js, Dashboarding, Automation  
+- Email: **ghozali.ahmd25@gmail.com**
+- Portfolio: https://hiddenlab.xyz
 
 ### 🌐 Connect With Me
 <p align="center">
@@ -27,6 +29,8 @@
   </a>
 </p>
 
+---
+
 ### 🛠 Languages and Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,gcp,linux,mongodb,mysql,nodejs,php,postgres,python,react,tailwind,vue" />
@@ -37,9 +41,6 @@
   <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### 📫 Contact
-- Email: **ghozali.ahmd25@gmail.com**
-- Portfolio: https://hiddenlab.xyz
 
 ### ☕ Support Me
 <p align="center">
