@@ -23,9 +23,9 @@
 
 
 ### About Me
-- 💻 Web Developer & BI Developer  
-- 📊 Passionate in Data Analyst & Business Intelligence  
-- 🌍 Based in Indonesia 🇮🇩  
+- Web Developer & BI Developer  
+- Passionate in Data Analyst & Business Intelligence  
+- Based in Indonesia 🇮🇩  
 - Email: **ghozali.ahmd25@gmail.com**
 - Portfolio: https://hiddenlab.xyz
 
