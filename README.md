@@ -8,19 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09F7D1&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Analyst;BI+Developer;Laravel+%7C+NodeJS+%7C+Dashboarding;Welcome+to+my+GitHub+Profile" />
 </p>
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmadghozali25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://www.instagram.com/ahmadghozali25" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25"/>
-  </a>
-  <a href="mailto:ghozali.ahmd25@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
-  </a>
-</p>
-
 
 ### About Me
 - Web Developer & BI Developer  
@@ -42,6 +29,20 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/main/profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmadghozali25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://www.instagram.com/ahmadghozali25" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:ghozali.ahmd25@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="25"/>
+  </a>
 </p>
 
 
