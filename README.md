@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghozali25&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Ahmad Ghozali</h1>
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=HI;My+Name+Ahmad+Ghozali;I'm+Passionate+Data+Analyst;Programming%2C+Finance;Accounting" alt="Typing SVG" /></a>
+</h1>
 
 ### About Me
 - Email: **ghozali.ahmd25@gmail.com**
