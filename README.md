@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/ghozali25/ghozali25/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ghozali25/ghozali25/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/ghozali25/ghozali25/main/profile-3d-contrib/profile-gitblock.svg" />
 </p>
 
 
