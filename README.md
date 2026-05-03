@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ahmad Ghozali</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Fullstack+Developer;Laravel+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 ### About Me
 - Email: **ghozali.ahmd25@gmail.com**
