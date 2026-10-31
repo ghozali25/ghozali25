@@ -4,7 +4,7 @@
 
 ### About Me
 - Email: **ghozali.ahmd25@gmail.com**
-- Portfolio: https://hiddenlab.xyz
+- Portfolio: https://hiddenlab.me
 
 ### 🐍 My Contributions
 <p align="center">
